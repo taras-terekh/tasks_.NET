@@ -1,0 +1,7 @@
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\bin\Debug\task_2.4.exe.config
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\bin\Debug\task_2.4.exe
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\bin\Debug\task_2.4.pdb
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\obj\Debug\task_2.4.csprojAssemblyReference.cache
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\obj\Debug\task_2.4.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\obj\Debug\task_2.4.exe
+E:\Work\epam\C#\HW2\Lecture_2\task_2.4\obj\Debug\task_2.4.pdb

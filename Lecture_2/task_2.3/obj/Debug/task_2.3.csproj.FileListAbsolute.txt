@@ -1,0 +1,6 @@
+E:\Work\epam\C#\HW2\Lecture_2\task_2.3\bin\Debug\task_2.3.exe.config
+E:\Work\epam\C#\HW2\Lecture_2\task_2.3\bin\Debug\task_2.3.exe
+E:\Work\epam\C#\HW2\Lecture_2\task_2.3\bin\Debug\task_2.3.pdb
+E:\Work\epam\C#\HW2\Lecture_2\task_2.3\obj\Debug\task_2.3.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW2\Lecture_2\task_2.3\obj\Debug\task_2.3.exe
+E:\Work\epam\C#\HW2\Lecture_2\task_2.3\obj\Debug\task_2.3.pdb
