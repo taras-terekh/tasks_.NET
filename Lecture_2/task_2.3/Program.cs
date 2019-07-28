@@ -15,29 +15,21 @@ namespace task_2._3
         {
             double sum = 0, avg = 0;
             int count = 0;
-            Console.Write("Enter array length: ");
-            int arrayLength = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the left border of the array elements: ");
-            int n1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the right border of the array elements: ");
-            int n2 = Convert.ToInt32(Console.ReadLine());
+            int arrayLength = 7;
+            int n1 = 4;
+            int n2 = 92;
             int[] array = new int[arrayLength];
             Random rand = new Random();
-            Console.WriteLine("Array:");
             for (int i = 0; i < array.Length; i++)
             {
                 array[i] = rand.Next(n1, n2);
-                Console.Write("{0} ", array[i]);
                 if (array[i] % 2 == 0)
                 {
                     sum += array[i];
                     count++;
                 }
             }
-
             avg = sum / count;
-            Console.WriteLine();
-            Console.WriteLine("Sum= {0} avg= {1}", sum, avg);
         }
     }
 }

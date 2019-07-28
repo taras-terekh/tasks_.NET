@@ -14,13 +14,11 @@ namespace task_2._5
         static void Main(string[] args)
         {
             int[] array = new int[10] { 4, 54, 93, 2, 43, 85, 71, 93, 21, 33};
-            int searchNumber = -999999;
+            int searchNumber = -999999, difference = 0;
             int indexSearchFirstNumber = -1;
             int indexSearchSecondNumber = -1;
-            Console.WriteLine("Array:");
             for (int i = 0; i < array.Length; i++)
             {
-                Console.Write("{0} ", array[i]);
                 if (array[i] > searchNumber)
                 {
                     indexSearchFirstNumber = i;
@@ -32,9 +30,7 @@ namespace task_2._5
                     indexSearchSecondNumber = i;
                 }
             }
-            Console.WriteLine();
-            Console.WriteLine("indexSearchFirstNumber: {0} indexSearchSecondNumber: {1}", indexSearchFirstNumber, indexSearchSecondNumber);
-            Console.WriteLine("difference of two indexes = {0}", indexSearchSecondNumber - indexSearchFirstNumber);
+            difference = indexSearchSecondNumber - indexSearchFirstNumber;
         }
     }
 }

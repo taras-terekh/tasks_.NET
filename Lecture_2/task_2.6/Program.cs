@@ -13,33 +13,19 @@ namespace task_2._6
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter array length: ");
-            int arrayLength = Convert.ToInt32(Console.ReadLine());
+            int arrayLength = 5;
             int[,] array = new int[arrayLength, arrayLength];
-            Console.WriteLine("Array:");
             Random rand = new Random();
             for (int i = 0; i < arrayLength; i++)
             {
                 for (int j = 0; j < arrayLength; j++)
                 {
                     array[i, j] = rand.Next(0, 100);
-                    Console.Write("{0} ", array[i, j]);
                     if (i < j)
                         array[i, j] = 1;
                     else if(i > j)
                         array[i, j] = 0;
                 }
-                Console.WriteLine();
-            }
-            Console.WriteLine();
-            Console.WriteLine("New array:");
-            for (int i = 0; i < arrayLength; i++)
-            {
-                for (int j = 0; j < arrayLength; j++)
-                {
-                    Console.Write("{0} ", array[i, j]);
-                }
-                Console.WriteLine();
             }
         }
     }

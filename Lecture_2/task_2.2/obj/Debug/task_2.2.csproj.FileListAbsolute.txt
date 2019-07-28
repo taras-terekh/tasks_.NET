@@ -5,3 +5,10 @@ E:\Work\epam\C#\HW2\Lecture_2\task_2.2\obj\Debug\task_2.2.csproj.CoreCompileInpu
 E:\Work\epam\C#\HW2\Lecture_2\task_2.2\obj\Debug\task_2.2.exe
 E:\Work\epam\C#\HW2\Lecture_2\task_2.2\obj\Debug\task_2.2.pdb
 E:\Work\epam\C#\HW2\Lecture_2\task_2.2\obj\Debug\task_2.2.csprojAssemblyReference.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\bin\Debug\task_2.2.exe.config
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\bin\Debug\task_2.2.exe
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\bin\Debug\task_2.2.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\obj\Debug\task_2.2.csprojAssemblyReference.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\obj\Debug\task_2.2.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\obj\Debug\task_2.2.exe
+E:\Work\epam\C#\git\tasks_.NET\Lecture_2\task_2.2\obj\Debug\task_2.2.pdb
