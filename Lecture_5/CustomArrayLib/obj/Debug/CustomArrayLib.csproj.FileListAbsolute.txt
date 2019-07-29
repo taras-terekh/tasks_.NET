@@ -1,0 +1,6 @@
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\CustomArrayLib\bin\Debug\CustomArrayLib.dll
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\CustomArrayLib\bin\Debug\CustomArrayLib.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\CustomArrayLib\obj\Debug\CustomArrayLib.csprojAssemblyReference.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\CustomArrayLib\obj\Debug\CustomArrayLib.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\CustomArrayLib\obj\Debug\CustomArrayLib.dll
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\CustomArrayLib\obj\Debug\CustomArrayLib.pdb

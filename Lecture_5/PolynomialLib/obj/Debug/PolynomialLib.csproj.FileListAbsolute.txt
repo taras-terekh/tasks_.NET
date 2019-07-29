@@ -1,0 +1,6 @@
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\PolynomialLib\obj\Debug\PolynomialLib.csprojAssemblyReference.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\PolynomialLib\obj\Debug\PolynomialLib.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\PolynomialLib\bin\Debug\PolynomialLib.dll
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\PolynomialLib\bin\Debug\PolynomialLib.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\PolynomialLib\obj\Debug\PolynomialLib.dll
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\PolynomialLib\obj\Debug\PolynomialLib.pdb

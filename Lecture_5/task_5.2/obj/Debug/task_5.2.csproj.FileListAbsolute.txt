@@ -1,0 +1,17 @@
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\obj\Debug\task_5.2.csprojAssemblyReference.cache
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\obj\Debug\task_5.2.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\bin\Debug\task_5.2.exe.config
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\bin\Debug\task_5.2.exe
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\bin\Debug\task_5.2.pdb
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\obj\Debug\task_5.2.exe
+E:\Work\epam\C#\HW5\Lecture_5\task_5.2\obj\Debug\task_5.2.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\bin\Debug\task_5.2.exe.config
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\bin\Debug\task_5.2.exe
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\bin\Debug\task_5.2.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\bin\Debug\PolynomialLib.dll
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\bin\Debug\PolynomialLib.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\obj\Debug\task_5.2.csprojAssemblyReference.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\obj\Debug\task_5.2.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\obj\Debug\task_5.2.csproj.CopyComplete
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\obj\Debug\task_5.2.exe
+E:\Work\epam\C#\git\tasks_.NET\Lecture_5\task_5.2\obj\Debug\task_5.2.pdb
