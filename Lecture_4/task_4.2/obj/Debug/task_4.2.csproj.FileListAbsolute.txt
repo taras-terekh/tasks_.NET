@@ -1,0 +1,14 @@
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\bin\Debug\task_4.2.exe.config
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\bin\Debug\task_4.2.exe
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\bin\Debug\task_4.2.pdb
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\obj\Debug\task_4.2.csprojAssemblyReference.cache
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\obj\Debug\task_4.2.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\obj\Debug\task_4.2.exe
+E:\Work\epam\C#\HW4\Lecture_4\task_4.2\obj\Debug\task_4.2.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\bin\Debug\task_4.2.exe.config
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\bin\Debug\task_4.2.exe
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\bin\Debug\task_4.2.pdb
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\obj\Debug\task_4.2.csprojAssemblyReference.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\obj\Debug\task_4.2.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\obj\Debug\task_4.2.exe
+E:\Work\epam\C#\git\tasks_.NET\Lecture_4\task_4.2\obj\Debug\task_4.2.pdb

@@ -1,0 +1,7 @@
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\bin\Debug\Lecture_4.exe.config
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\bin\Debug\Lecture_4.exe
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\bin\Debug\Lecture_4.pdb
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\obj\Debug\task_4.1.csprojAssemblyReference.cache
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\obj\Debug\task_4.1.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\obj\Debug\Lecture_4.exe
+E:\Work\epam\C#\HW4\Lecture_4\Lecture_4\obj\Debug\Lecture_4.pdb
