@@ -1,0 +1,7 @@
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\bin\Debug\Lecture_6.exe.config
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\bin\Debug\Lecture_6.exe
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\bin\Debug\Lecture_6.pdb
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\obj\Debug\Lecture_6.csprojAssemblyReference.cache
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\obj\Debug\Lecture_6.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\obj\Debug\Lecture_6.exe
+E:\Work\epam\C#\HW6\Lecture_6\Lecture_6\obj\Debug\Lecture_6.pdb
