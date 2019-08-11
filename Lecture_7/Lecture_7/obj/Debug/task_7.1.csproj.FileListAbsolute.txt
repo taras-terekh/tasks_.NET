@@ -1,0 +1,7 @@
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\bin\Debug\Lecture_7.exe.config
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\bin\Debug\Lecture_7.exe
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\bin\Debug\Lecture_7.pdb
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\obj\Debug\task_7.1.csprojAssemblyReference.cache
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\obj\Debug\task_7.1.csproj.CoreCompileInputs.cache
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\obj\Debug\Lecture_7.exe
+E:\Work\epam\C#\HW7\Lecture_7\Lecture_7\obj\Debug\Lecture_7.pdb
